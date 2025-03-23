@@ -30,7 +30,7 @@ export default function Hero() {
             transition={{ delay: 0.4, duration: 0.8 }}
           >
             <span className="inline-block">
-              {Array.from("John Doe").map((char, index) => (
+              {Array.from("Afaq Ahmad").map((char, index) => (
                 <motion.span
                   key={index}
                   initial={{ opacity: 0, y: 20 }}
@@ -50,7 +50,7 @@ export default function Hero() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.6, duration: 0.8 }}
           >
-            Full Stack Developer & UI/UX Designer
+            Full Stack Dev • Shopify & WordPress Expert
           </motion.h2>
 
           <motion.p
@@ -59,8 +59,7 @@ export default function Hero() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.8, duration: 0.8 }}
           >
-            I create stunning web experiences with modern technologies, focusing on responsive design and seamless user
-            interactions.
+           I blend code with creativity to craft visually striking and highly responsive digital experiences. Whether it's a sleek Shopify store or a custom WordPress site, I bring ideas to life with flair and functionality.
           </motion.p>
 
           <motion.div
@@ -105,7 +104,7 @@ export default function Hero() {
 
             <div className="absolute inset-2 rounded-full overflow-hidden border-4 border-blue-400/30">
               <Image
-                src="/placeholder.svg?height=300&width=300"
+                src="https://media.licdn.com/dms/image/v2/D4D35AQG042qJ105eMA/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1683913588432?e=1743109200&v=beta&t=Nd0H_Do6AYq1nEb9ofzkQDJbAru8Nyv-yXgp4e_tHzc"
                 alt="Profile"
                 width={300}
                 height={300}

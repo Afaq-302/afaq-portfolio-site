@@ -71,15 +71,15 @@ export default function About() {
             <motion.div variants={itemVariants} className="grid grid-cols-2 gap-4 mb-8">
               <div>
                 <h3 className="text-blue-400 font-semibold mb-2">Name:</h3>
-                <p className="text-gray-300">John Doe</p>
+                <p className="text-gray-300">Afaq Ahmad</p>
               </div>
               <div>
                 <h3 className="text-blue-400 font-semibold mb-2">Email:</h3>
-                <p className="text-gray-300">john@example.com</p>
+                <p className="text-gray-300">ufaq3022@gmail.com</p>
               </div>
               <div>
                 <h3 className="text-blue-400 font-semibold mb-2">Location:</h3>
-                <p className="text-gray-300">San Francisco, CA</p>
+                <p className="text-gray-300">Mardan, KPK</p>
               </div>
               <div>
                 <h3 className="text-blue-400 font-semibold mb-2">Availability:</h3>

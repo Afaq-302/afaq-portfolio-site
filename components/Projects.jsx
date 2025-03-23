@@ -13,7 +13,7 @@ export default function Projects() {
     {
       title: "E-Commerce Platform",
       description: "A full-featured online store with product listings, cart functionality, and secure checkout.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       tags: ["Next.js", "Tailwind CSS", "Stripe", "MongoDB"],
       liveUrl: "#",
       githubUrl: "#",
@@ -21,7 +21,7 @@ export default function Projects() {
     {
       title: "Task Management App",
       description: "A collaborative task management tool with real-time updates and team workspaces.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "https://images.unsplash.com/photo-1726065235222-7d784fc40313?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
       tags: ["React", "Node.js", "Socket.io", "PostgreSQL"],
       liveUrl: "#",
       githubUrl: "#",
@@ -29,7 +29,7 @@ export default function Projects() {
     {
       title: "Portfolio Website",
       description: "A modern, animated portfolio website showcasing creative work and professional experience.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cG9ydGZvbGlvfGVufDB8fDB8fHww",
       tags: ["Next.js", "Framer Motion", "Tailwind CSS"],
       liveUrl: "#",
       githubUrl: "#",
@@ -37,7 +37,7 @@ export default function Projects() {
     {
       title: "Weather Dashboard",
       description: "A beautiful weather application with detailed forecasts, maps, and location-based data.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "https://images.unsplash.com/photo-1530563885674-66db50a1af19?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       tags: ["React", "OpenWeather API", "Chart.js", "Geolocation"],
       liveUrl: "#",
       githubUrl: "#",

@@ -19,12 +19,12 @@ export default function Footer() {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="md:col-span-2">
-            <h3 className="text-xl font-bold text-white mb-4">John Doe</h3>
+            <h3 className="text-xl font-bold text-white mb-4">Afaq Ahmad</h3>
             <p className="mb-4 max-w-md">
               A passionate full-stack developer specializing in creating beautiful, functional websites and applications
               with modern technologies.
             </p>
-            <p>&copy; {currentYear} John Doe. All rights reserved.</p>
+            <p>&copy; {currentYear} Afaq Ahmad. All rights reserved.</p>
           </div>
 
           <div>
@@ -61,15 +61,15 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-semibold text-white mb-4">Contact Info</h4>
             <ul className="space-y-2">
-              <li>San Francisco, CA</li>
+              <li>Mardan, KPK</li>
               <li>
-                <a href="mailto:john@example.com" className="hover:text-blue-400 transition-colors">
-                  john@example.com
+                <a href="mailto:ufaq3022@gmail.com" className="hover:text-blue-400 transition-colors">
+                  ufaq3022@gmail.com
                 </a>
               </li>
               <li>
                 <a href="tel:+11234567890" className="hover:text-blue-400 transition-colors">
-                  +1 (123) 456-7890
+                  +92 312 9113445
                 </a>
               </li>
             </ul>
@@ -77,7 +77,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-slate-800 mt-10 pt-6 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-sm mb-4 md:mb-0">Designed and developed with ❤️ by John Doe</p>
+          <p className="text-sm mb-4 md:mb-0">Designed and developed with ❤️ by Afaq Ahmad</p>
 
           <div className="flex gap-4">
             <a href="#" className="text-gray-400 hover:text-white transition-colors">
